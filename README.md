@@ -1,10 +1,11 @@
 # Olá, sou o Silonei 👋
 
-**7+ anos com Python | Analista de Desenvolvimento PL · Arquiteto de Soluções para Indústria 4.0**
+**7+ anos com Python | Desenvolvedor Full-Stack · Arquiteto de Soluções para Indústria 4.0**
 
 Python é minha linguagem principal há mais de 7 anos. Comecei automatizando
 processos com **web scraping (Selenium)**, análise de dados e aplicações
-desktop (**Qt6**) — hoje aplico essa base em backend **Django**,
+desktop (**Qt6**) — hoje aplico essa base em desenvolvimento **full-stack**:
+backend **Django**, frontend server-side (**templates + Tailwind CSS**),
 integrações corporativas (**ERP Senior, Oracle, LDAP, WMS**) e IoT
 industrial (**MQTT/ESP32**). Atuação em manufatura, chão de fábrica,
 apontamento de produção, OEE, qualidade, controle de acesso e sustentação
@@ -40,12 +41,13 @@ de ambientes críticos.
 ## O que eu faço
 
 - 🐍 Backend em Django: models, views, forms, migrations, regras de negócio
+- 🎨 Frontend server-side com templates Django + Tailwind CSS, tema
+  claro/escuro por token semântico
+- ⚡ Tempo real com Django Channels (WebSocket) e Daphne (ASGI)
 - 🔗 Integrações corporativas: ERP Senior, banco Oracle, Active Directory
   (LDAP), WMS, filas de reprocessamento resilientes a falha
-- ⚡ Tempo real com Django Channels (WebSocket) e Daphne (ASGI)
 - 📡 IoT industrial: telemetria MQTT, gateways com ESP32, protocolo OPC-UA
   e dispositivo serial/HID de controle de acesso
-- 🎨 Frontend server-side com templates + Tailwind CSS
 - 🔒 Controle de acesso granular: permissão por papel, por filial e por
   escopo de dado sensível
 - 📊 Análise de dados com pandas, aplicada a indicador operacional (OEE) e
@@ -102,7 +104,11 @@ de ambientes críticos.
 
 ## Projetos pessoais
 
-Em construção — novos repositórios sendo publicados aqui em breve.
+- 🏭 [**SIGMA**](https://github.com/Silonei-Duarte/SIGMA) — portal de gestão
+  e monitoramento de operação industrial: Django + Channels, integrações
+  ERP/WMS/Oracle, telemetria em tempo real e OEE
+
+Mais repositórios sendo publicados aqui em breve.
 
 ## Contato
 
