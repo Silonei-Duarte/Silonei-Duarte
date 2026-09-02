@@ -25,13 +25,14 @@ críticos.
 
 ## Trajetória
 
-- **Bruno Industrial** — Analista de Sistema PL _(2024–2025)_: softwares
-  corporativos de controle orçamentário, conciliação bancária e gestão de
-  custos; telemetria IoT/MQTT; integrações ERP/HCM; dashboards de
+- **Bruno Industrial** — Analista de Sistema PL _(2024–2025)_: softwares e
+  automações em Python para controle orçamentário, conciliação bancária e
+  gestão de custos; telemetria IoT/MQTT; integrações ERP/HCM; dashboards de
   monitoramento remoto; projetos de rede Indústria 4.0
 - **Algar Tech (Kyndryl/IBM)** — Analista de Suporte/Governança de TI
-  _(2019–2023)_: infraestrutura, gestão de terceiros, redes corporativas,
-  Active Directory, Service Desk
+  _(2019–2023)_: já usava Python em automações de suporte, além de
+  infraestrutura, gestão de terceiros, redes corporativas, Active
+  Directory e Service Desk
 
 ## O que eu faço
 
@@ -64,13 +65,6 @@ críticos.
 - Pós-graduação Lato Sensu, **Arquitetura e Gestão de Infraestrutura em TI** — Anhanguera Educacional (2024)
 - Graduação, **Análise e Desenvolvimento de Sistemas** — Estácio (2021–2023)
 - Certificações: Scrum Fundamentals · IBM Data Science · Formação Inicial Python
-
-## GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Silonei-Duarte&show_icons=true&theme=tokyonight&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Silonei-Duarte&theme=tokyonight&hide_border=true)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Silonei-Duarte&theme=tokyonight&no-frame=true&row=1&column=6)
 
 ## Projetos pessoais
 
