@@ -1,12 +1,14 @@
 # Olá, sou o Silonei 👋
 
-**Analista de Desenvolvimento PL | Python/Django · Arquiteto de Soluções para Indústria 4.0**
+**7+ anos com Python | Analista de Desenvolvimento PL · Arquiteto de Soluções para Indústria 4.0**
 
-Desenvolvedor Python/Django com experiência em **SQL/Oracle, IoT, integrações
-com ERP Senior, automações, APIs e projetos industriais**. Atuação em
-manufatura, chão de fábrica, apontamento de produção, OEE, qualidade,
-controle de acesso, telemetria MQTT/ESP32 e sustentação de ambientes
-críticos.
+Python é minha linguagem principal há mais de 7 anos. Comecei automatizando
+processos com **web scraping (Selenium)**, análise de dados e aplicações
+desktop (**Qt6**) — hoje aplico essa base em backend **Django**,
+integrações corporativas (**ERP Senior, Oracle, LDAP, WMS**) e IoT
+industrial (**MQTT/ESP32**). Atuação em manufatura, chão de fábrica,
+apontamento de produção, OEE, qualidade, controle de acesso e sustentação
+de ambientes críticos.
 
 ## Experiência atual
 
@@ -30,9 +32,10 @@ críticos.
   gestão de custos; telemetria IoT/MQTT; integrações ERP/HCM; dashboards de
   monitoramento remoto; projetos de rede Indústria 4.0
 - **Algar Tech (Kyndryl/IBM)** — Analista de Suporte/Governança de TI
-  _(2019–2023)_: já usava Python em automações de suporte, além de
-  infraestrutura, gestão de terceiros, redes corporativas, Active
-  Directory e Service Desk
+  _(2019–2023)_: onde tudo começou — automação de web scraping com
+  Selenium, análise de dados e aplicações desktop com Qt6, ao lado da
+  atuação em infraestrutura, redes corporativas, gestão de terceiros e
+  Active Directory
 
 ## O que eu faço
 
@@ -50,6 +53,8 @@ críticos.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
