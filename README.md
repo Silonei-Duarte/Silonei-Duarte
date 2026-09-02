@@ -49,27 +49,21 @@ de ambientes críticos.
   escopo de dado sensível
 - 🐘 Bancos PostgreSQL / TimescaleDB / InfluxDB
 
-## Como eu entrego
+## Esteira de qualidade
 
-- ✅ Teste automatizado em toda entrega — cobertura de autorização, regra
-  de negócio e integração, não só o caminho feliz
-- 🧹 Esteira de qualidade local antes de cada commit: lint, formatação e
-  checagem de tipos
+- ✅ **pytest** — teste automatizado em toda entrega: autorização, regra de
+  negócio e integração, não só o caminho feliz
+- 🧪 **Playwright** — teste E2E determinístico para mudança de tela ou
+  fluxo crítico, com screenshot em telas visuais
+- 🧹 **Ruff** — lint e formatação obrigatórios antes de cada commit
+- 🔎 **mypy / Pyright** — checagem de tipos estática
+- 📦 **uv** — gerenciamento de dependências e ambiente reprodutível
+- 🪝 Hooks de commit bloqueiam mudança em view sem teste novo/alterado no
+  mesmo app
 - 🔍 Revisão de código e de segurança em toda mudança sensível
   (autenticação, entrada de usuário, integração, segredo)
 - 📄 Documentação atualizada no mesmo commit da mudança que a tornou
   necessária — nunca depois
-- 🧪 Teste E2E determinístico para mudança de tela ou fluxo crítico
-
-## IA aplicada à engenharia
-
-Desenho pipelines de desenvolvimento assistidos por agentes de IA
-especializados por papel — implementação, testes, revisão de padrão,
-revisão de segurança e documentação —, cada um com escopo e critério de
-saída próprios. A IA entra como **multiplicador de rigor, não substituto
-dele**: hooks automatizados bloqueiam commit sem teste de regressão
-associado, e toda mudança sensível (autenticação, integração, segredo)
-passa por revisão de segurança antes de fechar.
 
 ## Stack
 
@@ -77,6 +71,10 @@ passa por revisão de segurança antes de fechar.
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black)
+![uv](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
