@@ -49,6 +49,18 @@ de ambientes críticos.
   escopo de dado sensível
 - 🐘 Bancos PostgreSQL / TimescaleDB / InfluxDB
 
+## Como eu entrego
+
+- ✅ Teste automatizado em toda entrega — cobertura de autorização, regra
+  de negócio e integração, não só o caminho feliz
+- 🧹 Esteira de qualidade local antes de cada commit: lint, formatação e
+  checagem de tipos
+- 🔍 Revisão de código e de segurança em toda mudança sensível
+  (autenticação, entrada de usuário, integração, segredo)
+- 📄 Documentação atualizada no mesmo commit da mudança que a tornou
+  necessária — nunca depois
+- 🧪 Teste E2E determinístico para mudança de tela ou fluxo crítico
+
 ## Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
