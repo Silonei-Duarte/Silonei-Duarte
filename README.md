@@ -48,6 +48,8 @@ de ambientes críticos.
 - 🎨 Frontend server-side com templates + Tailwind CSS
 - 🔒 Controle de acesso granular: permissão por papel, por filial e por
   escopo de dado sensível
+- 📊 Análise de dados com pandas, aplicada a indicador operacional (OEE) e
+  relatório gerencial
 - 📄 Geração de relatório (PDF/Excel), QR Code e push notification
   (Firebase)
 - 🖥️ Automação de servidor Linux via SSH (Paramiko)
@@ -75,6 +77,7 @@ de ambientes críticos.
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black)
