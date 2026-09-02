@@ -61,6 +61,16 @@ de ambientes críticos.
   necessária — nunca depois
 - 🧪 Teste E2E determinístico para mudança de tela ou fluxo crítico
 
+## IA aplicada à engenharia
+
+Desenho pipelines de desenvolvimento assistidos por agentes de IA
+especializados por papel — implementação, testes, revisão de padrão,
+revisão de segurança e documentação —, cada um com escopo e critério de
+saída próprios. A IA entra como **multiplicador de rigor, não substituto
+dele**: hooks automatizados bloqueiam commit sem teste de regressão
+associado, e toda mudança sensível (autenticação, integração, segredo)
+passa por revisão de segurança antes de fechar.
+
 ## Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
