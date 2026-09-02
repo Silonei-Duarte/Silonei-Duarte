@@ -43,10 +43,14 @@ de ambientes críticos.
 - 🔗 Integrações corporativas: ERP Senior, banco Oracle, Active Directory
   (LDAP), WMS, filas de reprocessamento resilientes a falha
 - ⚡ Tempo real com Django Channels (WebSocket) e Daphne (ASGI)
-- 📡 IoT industrial: telemetria MQTT, gateways com ESP32
+- 📡 IoT industrial: telemetria MQTT, gateways com ESP32, protocolo OPC-UA
+  e dispositivo serial/HID de controle de acesso
 - 🎨 Frontend server-side com templates + Tailwind CSS
 - 🔒 Controle de acesso granular: permissão por papel, por filial e por
   escopo de dado sensível
+- 📄 Geração de relatório (PDF/Excel), QR Code e push notification
+  (Firebase)
+- 🖥️ Automação de servidor Linux via SSH (Paramiko)
 - 🐘 Bancos PostgreSQL / TimescaleDB / InfluxDB
 
 ## Esteira de qualidade
@@ -79,6 +83,8 @@ de ambientes críticos.
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![OPC UA](https://img.shields.io/badge/OPC_UA-1A1A2E?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
